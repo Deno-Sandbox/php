@@ -11,4 +11,8 @@ export class PHP {
     laucnh() {
         console.log('ini_set("error_log", "php-errors.log");')
     }
+
+    secure() {
+        console.log('MOST SECURE web langage ! 🔐')
+    }
 }

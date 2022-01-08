@@ -1,6 +1,6 @@
-# php
+# XXX_phpPro_OF__XXX
 
-<img src="./github/mem.jpg">
+<img src="https://github.com/Deno-Sandbox/php/blob/main/github/mem.jpg?raw=true">
 
 # How to use ?
 simply import module like this: 
@@ -8,3 +8,14 @@ simply import module like this:
 
 and use this :
 look at the script
+
+## USE
+```ts
+import { php } from "https://deno.land/x/php"
+const myPHP = new php()
+
+//[...]
+
+
+myPHP.launch()
+```
