@@ -13,6 +13,6 @@ export class PHP {
     }
 
     secure() {
-        console.log('MOST SECURE web langage ! 🔐')
+        console.log('MOST SECURE web langage ! :p')
     }
 }
