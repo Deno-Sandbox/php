@@ -15,4 +15,8 @@ export class PHP {
     secure() {
         console.log('MOST SECURE web langage ! :p')
     }
+
+    v(){
+        console.log('V 3.2.0')
+    }
 }
